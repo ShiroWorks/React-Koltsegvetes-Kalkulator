@@ -78,7 +78,7 @@ function App() {
     } else {
       handleAlert({
         type: 'danger',
-        text: `költség nem lehet üres érték és a költség értéknek nagyobbnak kell lenni mint nulla`
+        text: `költség nem lehet üres érték és a költség értéknek nagyobbnak kell lennie mint nulla`
       });
     }
   };
